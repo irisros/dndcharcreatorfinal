@@ -1,0 +1,22 @@
+{
+    "Iris": {
+        "Password": "hello",
+        "Birthdate": "22-09-2002",
+        "Gender": "Female",
+        "Characters": {
+            "Ivy": {
+                "Class": "druid",
+                "Proficiencies": "Arcana and Nature",
+                "Species": "Dragonborn",
+                "Abilities": {
+                    "Strength": 15,
+                    "Dexterity": 12,
+                    "Constitution": 8,
+                    "Intelligence": 14,
+                    "Wisdom": 13,
+                    "Charisma": 10
+                }
+            }
+        }
+    }
+}

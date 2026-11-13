@@ -1,0 +1,27 @@
+{
+    "Iris": {
+        "Password": "bongo",
+        "Characters": {
+            "Akraaka": {
+                "Class": "rogue",
+                "Proficiencies": [
+                    "acrobatics",
+                    "stealth",
+                    "intimidation",
+                    "sleight of hand",
+                    "perception"
+                ],
+                "Species": "elf",
+                "Background": "criminal",
+                "Abilities": {
+                    "Wisdom": 8,
+                    "Constitution": 15,
+                    "Strength": 15,
+                    "Dexterity": 14,
+                    "Intelligence": 13,
+                    "Charisma": 10
+                }
+            }
+        }
+    }
+}

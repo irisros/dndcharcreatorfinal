@@ -1,0 +1,275 @@
+2026-11-06 11:25:12,847 - INFO - Application started
+2026-11-06 11:25:15,518 - INFO - User chose menu option 1
+2026-11-06 11:25:15,518 - INFO - Character creator menu opened
+2026-11-06 11:25:23,250 - INFO - Application started
+2026-11-06 11:25:25,145 - INFO - User chose menu option 5
+2026-11-06 11:25:48,005 - INFO - Application started
+2026-11-06 11:25:49,788 - INFO - User chose menu option 5
+2026-11-06 11:25:49,789 - WARNING - User entered invalid number
+2026-11-06 11:25:52,213 - WARNING - User entered invalid input
+2026-11-06 12:20:41,189 - INFO - Application started
+2026-11-06 12:20:43,401 - INFO - User chose menu option 1
+2026-11-06 12:20:43,402 - INFO - Character creator menu opened
+2026-11-06 12:20:45,340 - INFO - User continues without account.
+2026-11-06 12:20:47,736 - INFO - User continues without account.
+2026-11-06 12:21:18,959 - INFO - Application started
+2026-11-06 12:21:20,511 - INFO - User chose menu option 1
+2026-11-06 12:21:20,511 - INFO - Character creator menu opened
+2026-11-06 12:21:22,806 - INFO - User continues without account.
+2026-11-06 12:21:27,257 - INFO - User chose to create a character from scratch.
+2026-11-06 12:28:38,213 - INFO - Application started
+2026-11-06 12:28:40,607 - INFO - User chose menu option 1
+2026-11-06 12:28:40,607 - INFO - Character creator menu opened
+2026-11-06 12:28:48,521 - INFO - User continues without account.
+2026-11-06 12:28:52,976 - INFO - User chose to create a character from scratch.
+2026-11-06 12:30:10,627 - INFO - Application started
+2026-11-06 12:30:14,571 - INFO - User chose menu option 1
+2026-11-06 12:30:14,571 - INFO - Character creator menu opened
+2026-11-06 12:30:16,235 - INFO - User continues without account.
+2026-11-06 12:30:22,429 - INFO - User chose to generate a random character.
+2026-11-06 12:30:57,565 - INFO - Application started
+2026-11-06 12:30:59,727 - INFO - User chose menu option 1
+2026-11-06 12:30:59,727 - INFO - Character creator menu opened
+2026-11-06 12:31:06,688 - INFO - User continues without account.
+2026-11-06 12:31:16,117 - INFO - User chose to generate a random character.
+2026-11-06 12:31:32,052 - INFO - User chose menu option 1
+2026-11-06 12:31:32,052 - INFO - Character creator menu opened
+2026-11-06 12:31:37,070 - INFO - User continues logged in.
+2026-11-06 12:32:04,756 - INFO - Application started
+2026-11-06 12:32:32,777 - INFO - User chose menu option 1
+2026-11-06 12:32:32,777 - INFO - Character creator menu opened
+2026-11-06 12:32:38,087 - INFO - User continues logged in.
+2026-11-06 12:32:49,266 - INFO - User chose to generate a random character.
+2026-11-06 12:33:11,800 - INFO - User chose menu option 1
+2026-11-06 12:33:11,800 - INFO - Character creator menu opened
+2026-11-06 12:33:15,896 - INFO - User chose to view their created character(s)
+2026-11-06 13:20:53,815 - INFO - Application started
+2026-11-06 13:20:56,153 - INFO - User chose main menu option 2
+2026-11-06 13:20:56,154 - INFO - Account menu opened
+2026-11-06 13:22:49,175 - INFO - Application started
+2026-11-06 13:22:53,835 - INFO - User chose main menu option 2
+2026-11-06 13:22:53,836 - INFO - Account menu opened
+2026-11-06 13:22:56,893 - INFO - Password verified successfully.
+2026-11-06 13:22:56,893 - INFO - User is logged in as Iris
+2026-11-06 13:43:00,996 - INFO - Application started
+2026-11-06 13:43:03,216 - INFO - User chose main menu option 1
+2026-11-06 13:43:03,216 - INFO - Character creator menu opened
+2026-11-06 13:43:10,842 - INFO - Application started
+2026-11-06 13:43:16,377 - INFO - User chose main menu option 2
+2026-11-06 13:43:16,377 - INFO - Account menu opened
+2026-11-06 13:43:22,671 - WARNING - User filled in the wrong password.
+2026-11-06 13:43:25,319 - INFO - Password verified successfully.
+2026-11-06 13:43:25,320 - INFO - User is logged in as Iris
+2026-11-06 13:45:09,503 - INFO - Application started
+2026-11-06 13:45:11,321 - INFO - User chose main menu option 2
+2026-11-06 13:45:11,321 - INFO - Account menu opened
+2026-11-06 13:45:15,152 - INFO - Password verified successfully.
+2026-11-06 13:45:15,153 - INFO - User is logged in as Iris
+2026-11-06 13:45:28,260 - INFO - Successfully saved information to users.json 
+2026-11-06 13:45:50,061 - INFO - Application started
+2026-11-06 13:45:57,335 - INFO - User chose main menu option 2
+2026-11-06 13:45:57,336 - INFO - Account menu opened
+2026-11-06 13:45:58,416 - INFO - New account creation started
+2026-11-06 13:46:07,857 - INFO - Successfully saved information to users.json 
+2026-11-06 13:46:07,857 - INFO - Password was created and account was saved.
+2026-11-06 13:46:18,425 - INFO - Successfully saved information to users.json 
+2026-11-06 13:47:17,721 - INFO - Application started
+2026-11-06 13:47:19,712 - INFO - User chose main menu option 2
+2026-11-06 13:47:19,712 - INFO - Account menu opened
+2026-11-06 13:47:24,921 - WARNING - User filled in the wrong password.
+2026-11-06 13:47:27,344 - WARNING - User filled in the wrong password.
+2026-11-06 13:47:36,667 - INFO - Password verified successfully.
+2026-11-06 13:47:36,668 - INFO - User is logged in as Iris
+2026-11-06 13:47:41,790 - INFO - Successfully saved information to users.json 
+2026-11-10 13:54:46,196 - INFO - Application started
+2026-11-10 13:54:49,045 - INFO - User chose main menu option 1
+2026-11-10 13:54:49,046 - INFO - Character creator menu opened
+2026-11-10 13:54:51,877 - INFO - User continues logged in.
+2026-11-10 13:54:58,428 - WARNING - User filled in the wrong password.
+2026-11-10 13:55:01,016 - WARNING - User filled in the wrong password.
+2026-11-10 13:55:03,645 - WARNING - User filled in the wrong password.
+2026-11-10 13:55:06,227 - WARNING - User filled in the wrong password.
+2026-11-10 13:55:17,725 - INFO - Password verified successfully.
+2026-11-10 13:55:17,725 - INFO - User is logged in as Iris
+2026-11-10 13:55:25,009 - INFO - User chose to generate a random character.
+2026-11-10 13:55:25,576 - INFO - Successfully got data from endpoint, and converted it into a list.
+2026-11-10 13:55:25,893 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:26,211 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:26,529 - INFO - Successfully got data from endpoint, and converted it into a list.
+2026-11-10 13:55:26,842 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:27,152 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:27,467 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:27,779 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:28,088 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:28,394 - INFO - Successfully got data from endpoint.
+2026-11-10 13:55:28,396 - INFO - Character was saved!
+2026-11-10 13:55:28,399 - INFO - Successfully saved information to users.json 
+2026-11-10 13:55:43,001 - INFO - User chose main menu option 1
+2026-11-10 13:55:43,001 - INFO - Character creator menu opened
+2026-11-10 13:55:46,992 - INFO - User chose to create a character from scratch.
+2026-11-10 13:56:07,594 - INFO - Successfully got data from endpoint, and converted it into a list.
+2026-11-10 13:56:22,911 - INFO - Successfully got data from endpoint.
+2026-11-10 13:56:23,210 - INFO - Successfully got data from endpoint.
+2026-11-10 13:56:23,517 - INFO - Successfully got data from endpoint.
+2026-11-10 13:56:54,828 - INFO - Successfully got data from endpoint, and converted it into a list.
+2026-11-10 13:57:07,456 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:07,783 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:08,105 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:08,412 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:08,720 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:09,035 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:09,366 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:09,673 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:09,991 - INFO - Successfully got data from endpoint.
+2026-11-10 13:57:09,992 - INFO - Character was saved!
+2026-11-10 13:57:09,994 - INFO - Successfully saved information to users.json 
+2026-11-10 13:57:09,994 - INFO - The user's created character with name Kairimos was saved.
+2026-11-11 08:48:25,358 - INFO - Application started
+2026-11-11 08:48:29,402 - INFO - User chose main menu option 4
+2026-11-11 08:48:29,403 - WARNING - User entered invalid number
+2026-11-11 08:48:31,860 - WARNING - User entered invalid input
+2026-11-11 08:48:35,912 - INFO - User chose main menu option 4
+2026-11-11 08:48:35,912 - WARNING - User entered invalid number
+2026-11-11 08:48:38,464 - INFO - User chose main menu option 1
+2026-11-11 08:48:38,464 - INFO - Character creator menu opened
+2026-11-11 08:48:42,203 - INFO - User continues without account.
+2026-11-11 08:48:45,626 - INFO - User chose to view their created character(s)
+2026-11-11 08:48:45,626 - INFO - User is not logged in so can't view saved characters.
+2026-11-11 08:49:11,070 - INFO - Password verified successfully.
+2026-11-11 08:49:11,070 - INFO - User is logged in as Iris
+2026-11-11 08:52:01,833 - INFO - Application started
+2026-11-11 08:52:04,411 - INFO - User chose main menu option 1
+2026-11-11 08:52:04,411 - INFO - Character creator menu opened
+2026-11-11 08:52:15,201 - INFO - User continues without account.
+2026-11-11 08:53:37,521 - WARNING - User entered invalid input
+2026-11-11 08:53:39,644 - INFO - User chose main menu option 2
+2026-11-11 08:53:39,644 - INFO - Account menu opened
+2026-11-11 09:02:43,369 - INFO - Application started
+2026-11-11 09:02:48,587 - INFO - User chose main menu option 2
+2026-11-11 09:02:48,588 - INFO - Account menu opened
+2026-11-11 09:02:52,205 - INFO - New account creation started
+2026-11-11 09:02:59,708 - INFO - Application started
+2026-11-11 09:03:01,764 - INFO - User chose main menu option 2
+2026-11-11 09:03:01,765 - INFO - Account menu opened
+2026-11-11 09:03:05,742 - INFO - Password verified successfully.
+2026-11-11 09:03:05,743 - INFO - User is logged in as Iris
+2026-11-11 09:03:13,072 - INFO - User returned to main menu.
+2026-11-11 09:03:16,605 - INFO - User chose main menu option 2
+2026-11-11 09:03:16,605 - INFO - Account menu opened
+2026-11-11 09:07:07,279 - INFO - Application started
+2026-11-11 09:07:09,553 - INFO - User chose main menu option 2
+2026-11-11 09:07:09,554 - INFO - Account menu opened
+2026-11-11 09:07:14,114 - WARNING - User filled in the wrong password.
+2026-11-11 09:07:15,802 - INFO - Password verified successfully.
+2026-11-11 09:07:15,802 - INFO - User is logged in as Iris
+2026-11-11 09:07:34,607 - INFO - User returned to main menu.
+2026-11-11 09:07:37,015 - INFO - User chose main menu option 2
+2026-11-11 09:07:37,015 - INFO - Account menu opened
+2026-11-13 11:22:30,197 - INFO - Application started
+2026-11-13 11:22:33,824 - INFO - User chose main menu option 1
+2026-11-13 11:22:33,825 - INFO - Character creator menu opened
+2026-11-13 11:22:48,533 - INFO - User continues without account.
+2026-11-13 11:22:50,803 - INFO - User chose to view their created character(s)
+2026-11-13 11:22:50,803 - INFO - User is not logged in so can't view saved characters.
+2026-11-13 11:23:01,399 - INFO - Password verified successfully.
+2026-11-13 11:23:01,399 - INFO - User is logged in as Iris
+2026-11-13 11:25:35,653 - INFO - Application started
+2026-11-13 11:25:40,701 - INFO - User chose main menu option 1
+2026-11-13 11:25:40,701 - INFO - Character creator menu opened
+2026-11-13 11:25:42,864 - INFO - User continues without account.
+2026-11-13 11:25:50,303 - INFO - User chose main menu option 1
+2026-11-13 11:25:50,303 - INFO - Character creator menu opened
+2026-11-13 11:25:52,230 - INFO - User continues without account.
+2026-11-13 11:26:00,446 - WARNING - User entered invalid input
+2026-11-13 11:29:42,505 - INFO - Application started
+2026-11-13 11:33:34,311 - INFO - User chose main menu option 1
+2026-11-13 11:33:34,311 - INFO - Character creator menu opened
+2026-11-13 11:33:36,204 - INFO - User continues without account.
+2026-11-13 11:33:38,836 - WARNING - User entered invalid input
+2026-11-13 11:33:41,043 - WARNING - User entered invalid input
+2026-11-13 11:33:44,117 - WARNING - User entered invalid number.
+2026-11-13 11:33:49,185 - WARNING - User entered invalid number.
+2026-11-13 11:33:52,452 - INFO - User chose to generate a random character.
+2026-11-13 11:39:37,576 - INFO - Application started
+2026-11-13 11:39:42,838 - INFO - User chose main menu option 1
+2026-11-13 11:39:42,839 - INFO - Character creator menu opened
+2026-11-13 11:39:45,916 - INFO - User continues without account.
+2026-11-13 11:39:57,009 - INFO - User chose to generate a random character.
+2026-11-13 11:41:36,097 - INFO - Application started
+2026-11-13 11:41:38,867 - INFO - User chose main menu option 1
+2026-11-13 11:41:38,867 - INFO - Character creator menu opened
+2026-11-13 11:41:41,326 - INFO - User continues without account.
+2026-11-13 11:41:51,196 - INFO - User chose to generate a random character.
+2026-11-13 11:42:02,543 - INFO - User returned to the main menu.
+2026-11-13 11:42:14,132 - INFO - User chose main menu option 2
+2026-11-13 11:42:14,132 - INFO - Account menu opened
+2026-11-13 11:42:19,728 - INFO - Password verified successfully.
+2026-11-13 11:42:19,728 - INFO - User is logged in as Iris
+2026-11-13 11:42:23,129 - INFO - User initiated an account deletion.
+2026-11-13 11:43:05,772 - INFO - Application started
+2026-11-13 11:43:10,975 - INFO - User chose main menu option 1
+2026-11-13 11:43:10,976 - INFO - Character creator menu opened
+2026-11-13 11:43:13,287 - INFO - User continues without account.
+2026-11-13 11:43:15,343 - INFO - User returned to main menu.
+2026-11-13 11:43:17,755 - INFO - User chose main menu option 2
+2026-11-13 11:43:17,755 - INFO - Account menu opened
+2026-11-13 11:43:23,352 - INFO - Password verified successfully.
+2026-11-13 11:43:23,352 - INFO - User is logged in as Iris
+2026-11-13 11:43:25,462 - INFO - User initiated an account deletion.
+2026-11-13 11:43:54,605 - INFO - Application started
+2026-11-13 11:43:56,809 - INFO - User chose main menu option 2
+2026-11-13 11:43:56,810 - INFO - Account menu opened
+2026-11-13 11:43:59,001 - INFO - Password verified successfully.
+2026-11-13 11:43:59,001 - INFO - User is logged in as Iris
+2026-11-13 11:44:00,798 - INFO - User initiated an account deletion.
+2026-11-13 11:44:11,478 - INFO - Account deletion canceled
+2026-11-13 11:44:15,467 - INFO - User initiated an account deletion.
+2026-11-13 11:44:17,212 - INFO - Successfully saved information to users.json 
+2026-11-13 11:44:17,212 - INFO - Account successfully deleted
+2026-11-13 11:44:38,492 - INFO - User prompted to see all registered accounts.
+2026-11-13 11:46:31,539 - INFO - Application started
+2026-11-13 11:46:33,755 - INFO - User chose main menu option 2
+2026-11-13 11:46:33,755 - INFO - Account menu opened
+2026-11-13 11:46:43,884 - INFO - New account creation started
+2026-11-13 11:46:49,040 - INFO - Successfully saved information to users.json 
+2026-11-13 11:46:49,040 - INFO - Password was created and account was saved.
+2026-11-13 11:46:51,606 - INFO - User prompted to see all registered accounts.
+2026-11-13 11:48:07,017 - WARNING - User entered an invalid number
+2026-11-13 11:48:38,798 - INFO - Application started
+2026-11-13 11:48:42,433 - INFO - User chose main menu option 2
+2026-11-13 11:48:42,433 - INFO - Account menu opened
+2026-11-13 11:48:46,692 - INFO - Password verified successfully.
+2026-11-13 11:48:46,692 - INFO - User is logged in as Iris
+2026-11-13 11:48:53,741 - INFO - User initiated a password change.
+2026-11-13 11:48:55,985 - INFO - Successfully saved information to users.json 
+2026-11-13 11:48:55,985 - INFO - New password was created and saved.
+2026-11-13 11:49:40,142 - INFO - Application started
+2026-11-13 11:49:54,423 - INFO - User chose main menu option 15
+2026-11-13 11:49:54,423 - WARNING - User entered invalid number
+2026-11-13 11:49:57,254 - INFO - User chose main menu option 1
+2026-11-13 11:49:57,255 - INFO - Character creator menu opened
+2026-11-13 11:50:05,772 - INFO - User continues logged in.
+2026-11-13 11:50:11,182 - INFO - Password verified successfully.
+2026-11-13 11:50:11,182 - INFO - User is logged in as Iris
+2026-11-13 11:50:27,668 - INFO - User chose to view their created character(s)
+2026-11-13 11:50:27,669 - WARNING - User tried to view characters, but does not have any.
+2026-11-13 11:51:23,139 - INFO - User returned to main menu.
+2026-11-13 11:51:24,997 - INFO - User chose main menu option 2
+2026-11-13 11:51:24,997 - INFO - Account menu opened
+2026-11-13 11:51:27,165 - INFO - User returned to main menu.
+2026-11-13 11:51:29,705 - INFO - User chose main menu option 1
+2026-11-13 11:51:29,705 - INFO - Character creator menu opened
+2026-11-13 11:51:36,548 - INFO - User chose to view their created character(s)
+2026-11-13 11:51:36,548 - WARNING - User tried to view characters, but does not have any.
+2026-11-13 11:51:38,462 - INFO - User chose to generate a random character.
+2026-11-13 11:51:41,871 - INFO - Character was saved!
+2026-11-13 11:51:41,874 - INFO - Successfully saved information to users.json 
+2026-11-13 11:51:46,745 - INFO - User returned to the main menu.
+2026-11-13 11:51:49,697 - INFO - User chose main menu option 1
+2026-11-13 11:51:49,697 - INFO - Character creator menu opened
+2026-11-13 11:51:51,225 - INFO - User chose to view their created character(s)
+2026-11-13 11:52:36,044 - WARNING - User tried to view a character that they haven't made.
+2026-11-13 12:24:46,155 - INFO - Application started
+2026-11-13 12:34:57,735 - INFO - Application started
+2026-11-13 12:47:56,544 - INFO - Application started
+2026-11-13 12:48:04,009 - INFO - User chose main menu option 3
